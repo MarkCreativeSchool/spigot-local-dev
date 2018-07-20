@@ -3,3 +3,6 @@
 
 ## サーバー起動
 $ run.sh
+
+## MineCraft
+ダイレクト接続 > localhost
