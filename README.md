@@ -1,2 +1,5 @@
 # spigot-local-dev
-ローカル開発
+ローカル開発 ver1.12.2
+
+## サーバー起動
+$ run.sh
