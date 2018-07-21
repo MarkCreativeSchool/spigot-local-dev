@@ -7,3 +7,11 @@ plugins/scriptcraft/
 plugins/ViaVersion/
 plugins/WorldEdit/
 plugins/
+
+world_the_end/*
+world_nether/*
+world/*
+
+logs/*
+
+CraftBukkit/
